@@ -1,2 +1,2 @@
 application,service,application_env,repo_id,repo_branch,job_template,dockerfile,context,environment_master,registry_name,pre_hooks
-sr-test,sibasish1-test-service,dev,TestDummy,main,Global-Observability-Stack-v2,Dockerfile,.,dev,bp,"echo preparing CI;;git --version;;pwd"
+sr-test,sibasish-test-service,dev,TestDummy,main,Global-Observability-Stack-v2,Dockerfile,.,dev,bp,"echo preparing CI;;git --version;;pwd"
