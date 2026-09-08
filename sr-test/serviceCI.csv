@@ -1,2 +1,2 @@
 application,service,application_env,repo_id,repo_branch,job_template,dockerfile,context,environment_master,registry_name,pre_hooks
-sr-test,sibasish1-test-service,dev,TestDummy,main,airtel-test,Dockerfile,.,dev,bp,"cp /home/buildpiper/* . ;; echo preparing CI;;git --version;;pwd"
+sr-test,sibasish1-test-service,dev,TestDummy,main,Global-gcp-testing,Dockerfile,.,dev,bp,"cp /home/buildpiper/* . ;; echo preparing CI;;git --version;;pwd"
